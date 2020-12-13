@@ -66,7 +66,7 @@
         "machine_prompt_use_raft_threshold": 150,
         "machine_relative_extrusion": false,
         "machine_reset_e_length_layer_change": false,
-        "machine_stepe": 0,
+        "machine_stepe": 140.59,
         "machine_type_abbreviation": "CR-10",
         "machine_validate_printing_priority": true,
         "machine_virtual_extruder_offset_x2": 25,
