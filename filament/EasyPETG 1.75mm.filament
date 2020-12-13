@@ -1,0 +1,22 @@
+{
+    "header": {
+        "filament_id": "bfe4a8e9-e379-48a5-8a73-d8e5a3d935a9",
+        "filament_name": "EasyPETG 1.75mm"
+    },
+    "override_slice_settings": false,
+    "settings": {
+        "filament_brand": "Fiberlogy",
+        "filament_density": 1270,
+        "filament_diameter": 1.75,
+        "filament_display_name": "EasyPETG 1.75mm",
+        "filament_flowrate": 92,
+        "filament_gcode_end": "",
+        "filament_gcode_start": "",
+        "filament_name_abbreviation": "PETG",
+        "filament_notes": "",
+        "filament_price": 269
+    },
+    "slice_settings": {
+    },
+    "version": 1
+}
